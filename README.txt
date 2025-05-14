@@ -7,7 +7,7 @@ Dream Log App is a Flutter-based application that allows users to log their drea
 
 1. Clone the Repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/quad2x1008/dream_log_app.git
    cd dream_log_app
    ```
 
